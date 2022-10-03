@@ -25,27 +25,7 @@ i-Notes is a free-form notes web application. It allows you to store all of your
 * [Express.js](https://expressjs.com/)
 * [MongoDb](https://www.mongodb.com/)
 
-<br/>
 
-### **Installation**
-
-1. Clone the client repository 
-   ```sh
-   git clone https://github.com/ayushyadav9/inote-client
-   ```
-
-2. Install all npm packages from package.json
-   ```sh
-   npm install
-   ```
-
-3. Run the react app
-    ```sh
-    npm start
-    ```
-4. App will be runing at http://localhost:3000
-
-<br/>
 
 
 <!-- ROADMAP -->
